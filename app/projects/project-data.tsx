@@ -7,15 +7,15 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Mithril AI",
+    title: "C-programs",
     year: 2024,
-    description: "Open science AI resarch lab",
-    url: "https://github.com/mithrilai",
+    description: "C-programs",
+    url: "https://github.com/Sagar-Kushwahaa/C-programs",
   },
   {
-    title: "OpenDeepLearning",
+    title: "Web-Scraper",
     year: 2023,
-    description: "Open source AI education resources",
-    url: "https://opendeeplearning.xyz/",
+    description: "Web-Scraper",
+    url: "https://github.com/Sagar-Kushwahaa/Web-Scraper",
   },
 ];
