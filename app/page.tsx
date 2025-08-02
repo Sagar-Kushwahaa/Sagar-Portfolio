@@ -4,7 +4,7 @@ import { socialLinks } from "./lib/config";
 export default function Page() {
   return (
     <section>
-      <a href={socialLinks.twitter} target="_blank">
+      <a href={socialLinks.github} target="_blank">
         <Image
           src="/profile.jpg"
           alt="Profile photo"
@@ -17,19 +17,12 @@ export default function Page() {
       </a>
       <h1 className="mb-8 text-2xl font-medium">Portfolio template!</h1>
       <div className="prose prose-neutral dark:prose-invert">
-        <p>
-          A clean, fast, and lightweight portfolio template built with Next.js,
-          Vercel, and Tailwind CSS.
-        </p>
-        <p>
-          Nextfolio has everything you need for a portfolio: MDX blog, SEO, RSS,
-          Atom & JSON feeds, analytics, Tweet & YouTube embeds, KaTeX. .
-        </p>
-        <p>
-          Nextfolio is open-source and fully customizable, making it easy to add
-          more features.
-        </p>
-
+ I'm Sagar Prasad Kushwah from Nepal, currently learning and building projects in web development. I studied a 3-year diploma in Computer Engineering from CTEVT.
+       <p></p>
+ I'm focused on becoming a full-stack developer, and I'm exploring frameworks and tools to expand my skills. I enjoy creating practical projects that solve real problems and aim to one day start my own tech company.
+       <p></p> 
+Learning, building, and the process of creating something useful is what keeps me motivated.
+        <p></p>
         <p>Built and maintained by Sagar .</p>
       </div>
     </section>
