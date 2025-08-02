@@ -17,9 +17,9 @@ export default function Page() {
       </a>
       <h1 className="mb-8 text-2xl font-medium">Portfolio template!</h1>
       <div className="prose prose-neutral dark:prose-invert">
- I'm Sagar Prasad Kushwah from Nepal, currently learning and building projects in web development. I studied a 3-year diploma in Computer Engineering from CTEVT.
+ I&apos;m Sagar Prasad Kushwah from Nepal, currently learning and building projects in web development. I studied a 3-year diploma in Computer Engineering from CTEVT.
        <p></p>
- I'm focused on becoming a full-stack developer, and I'm exploring frameworks and tools to expand my skills. I enjoy creating practical projects that solve real problems and aim to one day start my own tech company.
+ I&apos;m focused on becoming a full-stack developer, and I&apos;m exploring frameworks and tools to expand my skills. I enjoy creating practical projects that solve real problems and aim to one day start my own tech company.
        <p></p> 
 Learning, building, and the process of creating something useful is what keeps me motivated.
         <p></p>
