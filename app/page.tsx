@@ -15,7 +15,7 @@ export default function Page() {
           priority
         />
       </a>
-      <h1 className="mb-8 text-2xl font-medium">Portfolio template!</h1>
+      <h1 className="mb-8 text-2xl font-medium">About Me</h1>
       <div className="prose prose-neutral dark:prose-invert">
  I&apos;m Sagar Prasad Kushwah from Nepal, currently learning and building projects in web development. I studied a 3-year diploma in Computer Engineering from CTEVT.
        <p></p>
